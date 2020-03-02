@@ -2,6 +2,8 @@ Seam-Carver
 ==========
 ## Introduction
 Seam Carver is a project that can aware the content of images, and in this project, it can resize an image without losing the content of image.
+Detailed introduction can see on https://en.wikipedia.org/wiki/Seam_carving .
+In this project, there are mainly 3 kinds of methods, Dynamic Programming(Top to Down), Dynamic Programming(Bottom to Up) and Recursive.
 ## Programming Language:
 Java
 ## How to run
